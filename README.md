@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sinha878
 - 👀 I’m interested in Computer science and business management
-- 🌱 I’m currently learning Cloud compiting,Java and data science
-- 💞️ I’m looking to collaborate on any c++ project
+- 🌱 I’m currently learning Data analytics,Java and data science
+- 💞️ I’m looking to collaborate on any good project
 - 📫 Reach me on sinhasohan18@gmail.com
 
 <!---
